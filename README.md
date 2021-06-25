@@ -3,7 +3,7 @@
 My name is James, I'm a mechanical engineering at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
 
 
-The start of the COVID-19 pandemic and subsequent lockdown sparked my interest in programming and since then it has bee non-stop - Before April 2020 I couldn't write a single line of code!
+The start of the COVID-19 pandemic and subsequent lockdown sparked my interest in programming and since then it has been non-stop - Before April 2020 I couldn't write a single line of code!
 
 When I'm not programming I like to ski, surf, hike, and climb. 
 
