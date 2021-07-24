@@ -16,7 +16,9 @@ When I'm not programming I like to ski, surf, hike, and climb.
 
 
 ### 📚 Reading List: 
-- [ ] Currently Reading: The Alignment Problem - Brian Christian
+- [ ] The Visual Display of Quantitative Information - Edward Tufte
+- [ ] Storytelling With Data - Cole Nussbaumer Knaflic
+- [ ] The Alignment Problem - Brian Christian
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] Hello World: Being Human in the Age of Algorithms - Hannah Fry
 - [x] Grokking Algorithms - Aditya Y. Bhargava
