@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is James, I'm a mechanical engineering at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
+
 I'm currently getting to grips with cloud ML with Microsoft Azure. 
 
 
