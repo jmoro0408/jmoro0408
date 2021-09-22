@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is James, I'm a mechanical engineering at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
+My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
 
-I'm currently getting to grips with cloud ML with Microsoft Azure, and building a django site to host some project scripts. 
+Alongside my full time engineering job I'm getting to grips with cloud ML with Microsoft Azure, and working on a site to showcase my projects. 
 
 
 When I'm not programming I like to ski, surf, hike, and climb. 
@@ -15,7 +15,7 @@ When I'm not programming I like to ski, surf, hike, and climb.
 
 
 ### 📚 Reading List: 
-
+- [ ] Think Again - Adam Grant
 - [ ] The Alignment Problem - Brian Christian
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
