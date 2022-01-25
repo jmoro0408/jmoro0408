@@ -2,8 +2,6 @@
 
 My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
 
-Alongside my full time engineering job I'm getting to grips with cloud ML with Microsoft Azure, and working on a site to showcase my projects. 
-
 
 When I'm not programming I like to ski, surf, hike, and climb. 
 
