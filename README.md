@@ -13,6 +13,7 @@ When I'm not programming I like to ski, surf, hike, and climb.
 
 
 ### 📚 Reading List: 
+- [ ] Gödel, Escher, Bach - Douglas Hofstadter
 - [ ] Think Again - Adam Grant
 - [ ] The Alignment Problem - Brian Christian
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
