@@ -15,8 +15,8 @@ When I'm not programming I like to ski, surf, hike, and climb.
 ### 📚 Reading List: 
 - [ ] Gödel, Escher, Bach - Douglas Hofstadter
 - [ ] Think Again - Adam Grant
-- [ ] The Alignment Problem - Brian Christian
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
+- [x] The Alignment Problem - Brian Christian
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
 - [x] The Visual Display of Quantitative Information - Edward Tufte
 - [x] Hello World: Being Human in the Age of Algorithms - Hannah Fry
