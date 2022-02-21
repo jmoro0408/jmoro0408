@@ -10,10 +10,10 @@ When I'm not programming I like to ski, surf, hike, and climb.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
 
 
+I'm currently working on achieving the Microsoft DP-100: "Designing and Implementing a Data Science Solution on Azure" certification. 
 
 
 ### 📚 Reading List: 
-- [ ] Gödel, Escher, Bach - Douglas Hofstadter
 - [ ] Think Again - Adam Grant
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] The Alignment Problem - Brian Christian
