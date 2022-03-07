@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming. 
-I'm currently working on achieving the Microsoft DP-100: "Designing and Implementing a Data Science Solution on Azure" certification.  and when I'm not programming I like to ski, surf, and hike. 
+
+
+I'm currently working on achieving the Microsoft DP-100: "Designing and Implementing a Data Science Solution on Azure" certification. 
+
+When I'm not programming I like to ski, surf, and hike. 
 
 
 
