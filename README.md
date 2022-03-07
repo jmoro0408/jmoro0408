@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming in general. 
-
-
-When I'm not programming I like to ski, surf, hike, and climb. 
+My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming. 
+I'm currently working on achieving the Microsoft DP-100: "Designing and Implementing a Data Science Solution on Azure" certification.  and when I'm not programming I like to ski, surf, and hike. 
 
 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
 
 
-I'm currently working on achieving the Microsoft DP-100: "Designing and Implementing a Data Science Solution on Azure" certification. 
+
 
 
 ### 📚 Reading List: 
