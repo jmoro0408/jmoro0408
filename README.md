@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-My name is James, I'm a mechanical engineer at Jacobs Engineering - aspiring to learn more about the world of Data Science, Machine Learning, and programming. 
-
-
+My name is James, I'm a Data Analyst at AECOM. 
 
 When I'm not programming I like to ski, surf, and hike. 
-
 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
 
 
 
-
-
 ### 📚 Reading List: 
-- [ ] Think Again - Adam Grant
+
+- [ ] Scrum: The Art of Doing Twice the Work in Half the Time - J. J. Sutherland
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] The Alignment Problem - Brian Christian
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
