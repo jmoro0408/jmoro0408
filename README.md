@@ -17,7 +17,6 @@ When I'm not programming I like to ski, surf, and hike.
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
 - [x] The Visual Display of Quantitative Information - Edward Tufte
 - [x] Hello World: Being Human in the Age of Algorithms - Hannah Fry
-- [x] Grokking Algorithms - Aditya Y. Bhargava
 - [x] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron
 - [x] The Quants - Scott Patterson
 - [x] A Short History of Nearly Everything - Bill Bryson
