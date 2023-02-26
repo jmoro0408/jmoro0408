@@ -11,7 +11,8 @@ When I'm not programming I like to ski, surf, and hike.
 
 ### 📚 Reading List: 
 
-- [ ] Scrum: The Art of Doing Twice the Work in Half the Time - J. J. Sutherland
+- [ ] The Society of Mind -  Marvin Minsky
+- [x] Scrum: The Art of Doing Twice the Work in Half the Time - J. J. Sutherland
 - [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] The Alignment Problem - Brian Christian
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
