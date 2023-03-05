@@ -6,6 +6,7 @@ When I'm not programming I like to ski, surf, and hike.
 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
+🖥 My in-progress [personal site](https://jmoro0408.github.io/)
 
 
 
