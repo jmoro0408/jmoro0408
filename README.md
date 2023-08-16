@@ -7,15 +7,16 @@ When I'm not programming I like to ski, surf, and hike.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
 
-🖥 My in-progress [personal site](https://jmoro0408.github.io/)
+🖥 My [portfolio site](https://jmoro0408.github.io/)
 
 
 
 ### 📚 Reading List: 
 
+- [ ] Permutation City - Greg Egan
 - [ ] The Society of Mind -  Marvin Minsky
 - [x] Scrum: The Art of Doing Twice the Work in Half the Time - J. J. Sutherland
-- [ ] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
+- [x] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
 - [x] The Alignment Problem - Brian Christian
 - [x] Storytelling With Data - Cole Nussbaumer Knaflic
 - [x] The Visual Display of Quantitative Information - Edward Tufte
