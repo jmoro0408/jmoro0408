@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, I'm a Data Analyst at AECOM. 
+My name is James, I'm a Data Scientist at AECOM. 
 
 When I'm not programming I like to ski, surf, and hike. 
 
