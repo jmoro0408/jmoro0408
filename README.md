@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, I'm a Machine Learning Engineer at QuantSpark.
+My name is James, I'm a Data Scientist at Schroders Capital.
 
 When I'm not programming I like to ski, surf, and hike. 
 
@@ -9,21 +9,6 @@ When I'm not programming I like to ski, surf, and hike.
 
 🖥 My [portfolio site](https://jmoro0408.github.io/)
 
-
-
-### 📚 Reading List: 
-
-- [ ] Permutation City - Greg Egan
-- [ ] The Society of Mind -  Marvin Minsky
-- [x] Scrum: The Art of Doing Twice the Work in Half the Time - J. J. Sutherland
-- [x] Rutherford and Fry's Complete Guide to Absolutely Everything - Adam Rutherford, Hannah Fry
-- [x] The Alignment Problem - Brian Christian
-- [x] Storytelling With Data - Cole Nussbaumer Knaflic
-- [x] The Visual Display of Quantitative Information - Edward Tufte
-- [x] Hello World: Being Human in the Age of Algorithms - Hannah Fry
-- [x] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron
-- [x] The Quants - Scott Patterson
-- [x] A Short History of Nearly Everything - Bill Bryson
 
 
 
