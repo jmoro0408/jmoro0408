@@ -5,9 +5,8 @@ My name is James, I'm a Data Scientist at Schroders Capital.
 When I'm not programming I like to ski, surf, and hike. 
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
+How to reach me: [LinkedIn](https://www.linkedin.com/in/james-moro-b56a5575)
 
-🖥 My [portfolio site](https://jmoro0408.github.io/)
 
 
 
